@@ -31,11 +31,7 @@ This project uses descriptive analysis, including description of trends over tim
 
 Gross domestic and ratings have increased overtime since 2016, an indication that popularity of movies and shows has increased, indicating presence of a market for Microsoft studios product movies.
 
-![Average ratings over the years]()
-
 Most common ocurring genres in our data set with higher ratings shows that the most popular genres are Comedy, Action, Drama and Romance.
-
-![Highest rated movie genres]()
 
 We identify studios that are doing best to narrow down where our market research can be focused on in terms of picking industry learnings and getting ahead of comeptition for Microsoft studio
 
