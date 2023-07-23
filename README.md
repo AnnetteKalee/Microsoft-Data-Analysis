@@ -1,6 +1,6 @@
-# Phase 1 Project
+# Data Analysis For Microsoft Movie Studio
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+![austin animal center](./images/austin-animal-center.jpg)
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
 
