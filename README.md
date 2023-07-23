@@ -31,15 +31,16 @@ This project uses descriptive analysis, including description of trends over tim
 
 Gross domestic and ratings have increased overtime since 2016, an indication that popularity of movies and shows has increased, indicating presence of a market for Microsoft studios product movies.
 
-![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/Trend%20of%20average%20ratings%20over%20the%20years.png)![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/domestic%20gross%20by%20year.png)
+![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/images/Trend%20of%20average%20ratings%20over%20the%20years.png)
+![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/images/domestic%20gross%20by%20year.png)
 
 Most common ocurring genres in our data set with higher ratings shows that the most popular genres are Comedy, Action, Drama and Romance.
 
-![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/highest-Rated%20movies%20in%20grouped%20genres.png)
+![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/images/highest-Rated%20movies%20in%20grouped%20genres.png)
 
 We identify studios that are doing best to narrow down where our market research can be focused on in terms of picking industry learnings and getting ahead of comeptition for Microsoft studio
 
-![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/total%20dometic%20gross%20by%20studio.png)
+![](https://raw.githubusercontent.com/AnnetteKalee/Project--Microsoft-Data-Analysis/master/images/total%20dometic%20gross%20by%20studio.png)
 
 ## Conclusions
 
