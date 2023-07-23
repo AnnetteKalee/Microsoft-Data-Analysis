@@ -35,8 +35,6 @@ Most common ocurring genres in our data set with higher ratings shows that the m
 
 We identify studios that are doing best to narrow down where our market research can be focused on in terms of picking industry learnings and getting ahead of comeptition for Microsoft studio
 
-![Gross by Studio]()
-
 
 ## Conclusions
 
