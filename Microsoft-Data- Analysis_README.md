@@ -69,18 +69,3 @@ Further analyses could yield additional insights:
 See the full analysis in the [Jupyter Notebook](https://github.com/AnnetteKalee/Project--Microsoft-Data-Analysis/blob/master/student.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
 
 For additional info, contact Annette Kalekye at [annette.kalekye@student.moringaschool.com](annette.kalekye@student.moringaschool.com)
-
-
-
-## Repository Structure
-
-```
-├── Zippeddata
-├── canvas
-├── .gitignore
-├── CONTRIBUTING.md
-├── LICENSE.md
-├── README.md
-└── awesome.gif
-└── student.ipyb
-```
