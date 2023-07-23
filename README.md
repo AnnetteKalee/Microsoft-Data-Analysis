@@ -58,6 +58,6 @@ Further analyses could yield additional insights:
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](https://github.com/AnnetteKalee/Project--Microsoft-Data-Analysis/blob/master/student.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+See the full analysis in the [Jupyter Notebook](https://github.com/AnnetteKalee/Project--Microsoft-Data-Analysis/blob/master/student.ipynb) or review this [presentation](https://github.com/AnnetteKalee/Project--Microsoft-Data-Analysis/blob/master/Data%20Analysis%20for%20Microsoft's%20studio%20presentation.pdf).
 
 For additional info, contact Annette Kalekye at [annette.kalekye@student.moringaschool.com](annette.kalekye@student.moringaschool.com)
