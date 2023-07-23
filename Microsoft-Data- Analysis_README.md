@@ -33,7 +33,7 @@ This project uses descriptive analysis, including description of trends over tim
 
 Gross domestic and ratings have increased overtime since 2016, an indication that popularity of movies and shows has increased, indicating presence of a market for Microsoft studios product movies.
 
-![Average ratings over the years](https://drive.google.com/file/d/13VGKlQjuo6RBMRI7Dt_MH8kjB9pSl-ZP/view?usp=drive_link)
+![Average ratings over the years]()
 
 Most common ocurring genres in our data set with higher ratings shows that the most popular genres are Comedy, Action, Drama and Romance.
 
