@@ -58,7 +58,7 @@ This analysis leads to these recommendations for Microsoft:
 
 Further analyses could yield additional insights:
 
-- **Analysis of foreign gross to determine possibility for global penetration:** This modeling could use already available data, such as breed and intake condition however he data was not enough to cunduct the analysis.
+- **Analysis of foreign gross to determine possibility for global penetration:** This modeling could use already available data, foreign gross earnings, however he data was not enough to cunduct the analysis.
 
 - **Geographical data availability:** This data could predict where marketing efforts can be doubled up on, what markets to focus on and advice on customers preferences by location, we lacked this data in our dataset.
 
